@@ -23,7 +23,7 @@ module.exports = {
   },
   // models: {
   //   connection: 'mysql',
-  //   migrate: 'safe'
+  //   migrate: 'alter'
   // },
 
 
